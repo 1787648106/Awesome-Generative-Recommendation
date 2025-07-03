@@ -82,6 +82,10 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion**](https://arxiv.org/abs/2506.06913), *2025.06*, ![](https://img.shields.io/badge/OneSug-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
+- [**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**](https://arxiv.org/abs/2506.23643v1), *2025.06*, ![](https://img.shields.io/badge/CAR-blue) ![](https://img.shields.io/badge/Huawei-orange)
+
+
+
 
 ## 👥 Contributors
 
