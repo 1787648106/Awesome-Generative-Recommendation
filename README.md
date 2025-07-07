@@ -50,6 +50,8 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 - [**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**](https://arxiv.org/abs/2502.18965), *2025.02*, ![](https://img.shields.io/badge/OneRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
   - [**OneRec Technical Report**](https://arxiv.org/abs/2506.13695), *2025.06*
+  - [**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**](https://arxiv.org/abs/2411.11739), *2024.11* (OneRec-Tokenizer Part)
+  - [**Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization**](https://arxiv.org/abs/2505.13894), *2025.05* (OneRec-RL Part)
 
 
 - [**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**](https://arxiv.org/abs/2503.02453), *2025.03*, ![](https://img.shields.io/badge/COBRA-blue) ![](https://img.shields.io/badge/Baidu-orange)
