@@ -87,6 +87,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**](https://arxiv.org/abs/2506.23643v1), *2025.06*, ![](https://img.shields.io/badge/CAR-blue) ![](https://img.shields.io/badge/Huawei-orange)
 
 
+- [**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**](https://arxiv.org/abs/2507.06507v2), *2025.07*, ![](https://img.shields.io/badge/Survey-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
 ## 👥 Contributors
