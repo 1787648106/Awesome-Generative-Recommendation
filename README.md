@@ -16,11 +16,30 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 ## 📚 Content
 
+- [Tokenizer](#tokenizer)
 - [2023](#2023)
 - [2024](#2024)
 - [2025](#2025)
 
+
 ---
+
+
+
+
+## Tokenizer
+
+- [**Neural Discrete Representation Learning**](https://proceedings.neurips.cc/paper_files/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf), *2017*, ![](https://img.shields.io/badge/VQ_VAE-blue) ![](https://img.shields.io/badge/DeepMind-orange)
+
+
+- [**Autoregressive Image Generation using Residual Quantization**](https://arxiv.org/abs/2203.01941), *2022.03*, ![](https://img.shields.io/badge/RQ_VAE-blue) ![](https://img.shields.io/badge/POSTECH-orange)
+
+
+- [**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**](https://arxiv.org/abs/2411.11739), *2024.11*, ![](https://img.shields.io/badge/QARM-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+
+
+
+
 
 
 ## 2023
@@ -88,6 +107,11 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 
 - [**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**](https://arxiv.org/abs/2507.06507v2), *2025.07*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Alibaba-orange)
+
+
+
+
+
 
 
 ## 👥 Contributors
