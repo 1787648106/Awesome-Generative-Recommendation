@@ -73,6 +73,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
   - [**Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization**](https://arxiv.org/abs/2505.13894), *2025.05* (OneRec-RL Part)
 
 
+- [**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**](https://arxiv.org/abs/2502.08309), *2025.02*, ![](https://img.shields.io/badge/LUM-blue) ![](https://img.shields.io/badge/Alibaba-orange)
+
+
 - [**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**](https://arxiv.org/abs/2503.02453), *2025.03*, ![](https://img.shields.io/badge/COBRA-blue) ![](https://img.shields.io/badge/Baidu-orange)
 
 
