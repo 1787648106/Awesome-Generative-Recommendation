@@ -16,6 +16,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 ## 📚 Content
 
+- [Analyses](#analyses)
 - [Tokenizer](#tokenizer)
 - [2023](#2023)
 - [2024](#2024)
@@ -23,6 +24,16 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 
 ---
+
+
+## Analyses
+
+- [**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**](https://arxiv.org/abs/2507.06507v2), *2025.07*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Alibaba-orange)
+
+
+- [**Generative Recommendation with Semantic IDs: A Practitioner's Handbook**](https://arxiv.org/abs/2507.22224v1), *2025.07*, ![](https://img.shields.io/badge/GRID-blue) ![](https://img.shields.io/badge/Snap-orange)
+
+
 
 
 
@@ -50,6 +61,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation**](https://arxiv.org/abs/2311.09049), *2023.11*, ![](https://img.shields.io/badge/LC_Rec-blue) ![](https://img.shields.io/badge/Tencent-orange)
 
 
+
+
+
 ## 2024
 
 - [**Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**](https://arxiv.org/abs/2402.17152), *2024.02*, ![](https://img.shields.io/badge/HSTU-blue) ![](https://img.shields.io/badge/Meta-orange)
@@ -62,6 +76,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 
 - [**Unifying Generative and Dense Retrieval for Sequential Recommendation**](https://arxiv.org/abs/2411.18814), *2024.11*, ![](https://img.shields.io/badge/LIGER-blue) ![](https://img.shields.io/badge/Meta-orange)
+
+
+
 
 
 
@@ -109,7 +126,6 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**](https://arxiv.org/abs/2506.23643v1), *2025.06*, ![](https://img.shields.io/badge/CAR-blue) ![](https://img.shields.io/badge/Huawei-orange)
 
 
-- [**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**](https://arxiv.org/abs/2507.06507v2), *2025.07*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
 
