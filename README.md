@@ -126,6 +126,11 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**](https://arxiv.org/abs/2506.23643v1), *2025.06*, ![](https://img.shields.io/badge/CAR-blue) ![](https://img.shields.io/badge/Huawei-orange)
 
 
+- [**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**](https://arxiv.org/abs/2507.12704), *2025.07*, ![](https://img.shields.io/badge/PinFM-blue) ![](https://img.shields.io/badge/Pinterest-orange)
+  
+
+- [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+
 
 
 
