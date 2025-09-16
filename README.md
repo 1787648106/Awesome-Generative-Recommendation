@@ -128,15 +128,15 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 
 - [**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**](https://arxiv.org/abs/2507.12704), *2025.07*, ![](https://img.shields.io/badge/PinFM-blue) ![](https://img.shields.io/badge/Pinterest-orange)
-  
-
-- [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
 - [**TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios**](https://arxiv.org/abs/2508.11977), *2025.08*, ![](https://img.shields.io/badge/TBGRecall-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
+- [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
+
+- [**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**](https://arxiv.org/abs/2509.03236v3), *2025.09*, ![](https://img.shields.io/badge/OneSearch-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
 
