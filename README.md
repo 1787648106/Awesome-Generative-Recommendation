@@ -84,11 +84,14 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 ## 2025
 
-- [**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**](https://arxiv.org/abs/2502.18965), *2025.02*, ![](https://img.shields.io/badge/OneRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
-  - [**OneRec Technical Report**](https://arxiv.org/abs/2506.13695), *2025.06*
-  - [**OneRec-V2 Technical Report**](https://arxiv.org/pdf/2508.20900), *2025.08*
+- ![](https://img.shields.io/badge/OneRec_series-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
   - [**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**](https://arxiv.org/abs/2411.11739), *2024.11* (OneRec-Tokenizer Part)
   - [**Pantheon: Personalized Multi-objective Ensemble Sort via Iterative Pareto Policy Optimization**](https://arxiv.org/abs/2505.13894), *2025.05* (OneRec-RL Part)
+  - [**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**](https://arxiv.org/abs/2502.18965), *2025.02*
+  - [**OneRec Technical Report**](https://arxiv.org/abs/2506.13695), *2025.06*
+  - [**OneRec-V2 Technical Report**](https://arxiv.org/pdf/2508.20900), *2025.08*
+  - [**OneRec-Think: In-Text Reasoning for Generative Recommendation**](https://arxiv.org/abs/2510.11639v1), *2025.10*
+
 
 
 - [**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**](https://arxiv.org/abs/2502.08309), *2025.02*, ![](https://img.shields.io/badge/LUM-blue) ![](https://img.shields.io/badge/Alibaba-orange)
